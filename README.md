@@ -1,0 +1,2 @@
+# Specho
+Uzbek
